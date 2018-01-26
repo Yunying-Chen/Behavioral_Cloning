@@ -32,3 +32,5 @@ The data was randomly shuffled the data set and 20% of the data was put into a v
 The number of epochs was 5 and the loss changed as follows:       
 ![loss](https://github.com/Yunying-Chen/Behavioral_Cloning/blob/master/image/loss.jpg)
 
+### Result
+![GIF](https://github.com/Yunying-Chen/Behavioral_Cloning/blob/master/image/auto.gif)
