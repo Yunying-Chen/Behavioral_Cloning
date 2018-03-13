@@ -34,3 +34,6 @@ The number of epochs was 5 and the loss changed as follows:
 
 ### Result
 ![GIF](https://github.com/Yunying-Chen/Behavioral_Cloning/blob/master/image/auto.gif)
+
+![GIF](https://github.com/Yunying-Chen/Behavioral_Cloning/blob/master/image/auto2.gif)
+
