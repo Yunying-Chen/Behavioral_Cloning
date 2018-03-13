@@ -16,7 +16,6 @@
 -model.py containing the script to create and train the model       
 -drive.py for driving the car in autonomous mode      
 -model.h5 containing a trained convolution neural network      
--img.mp4 the video of the testing from the center
 
 
 
